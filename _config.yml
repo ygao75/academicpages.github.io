@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuan"
+title                    : "Yuan Gao"
 title_separator          : "-"
-name                     : &name "Yuan"
+name                     : &name "Yuan Gao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuan"
+  name             : "Yuan Gao"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
-  employer         : "Red Brick University"
+  employer         : "The University of British Columbia"
   uri              : # URL
   email            : "ygao75@mail.ubc.ca" 
 
