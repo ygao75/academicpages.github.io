@@ -212,6 +212,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: _pages/cv.md
 
 
 # Defaults
