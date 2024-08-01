@@ -12,7 +12,7 @@ title                    : "Yuan Gao"
 title_separator          : "-"
 name                     : &name "Yuan Gao"
 description              : &description "PhD student in Mathematics"
-url                      : https://ygao75.github.io
+url                      : https://mmistakes.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
