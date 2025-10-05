@@ -20,5 +20,9 @@ Work experience
 * Fall 2023: Research Assistant
   * University of British Columbia Okanagan
   * Supervisor: Prof. Heinz Bauschke
+* Fall 2024: Research Assistant
+  * University of British Columbia Okanagan
+  * Supervisor: Prof. Heinz Bauschke
+
   
 
